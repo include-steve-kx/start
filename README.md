@@ -1,2 +1,2 @@
-# starting-page
+# start
 A new start.
