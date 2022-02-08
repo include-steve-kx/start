@@ -1,0 +1,1 @@
+canvas{position:fixed;top:0;left:0}main{width:100vw;color:#fff;position:absolute;padding:0;display:grid;grid-template-columns:repeat(12,1fr)}h1,h2,h3,blockquote{grid-column:2 / 8;font-family:Impact,Haettenschweiler,Arial Narrow Bold,sans-serif;font-size:5vw;font-weight:400;font-style:italic}section{grid-column:2 / 6}p{font-family:Courier New,Courier,monospace;font-style:normal}
